@@ -1,0 +1,16 @@
+{
+  "name": "altpocket_crypto_portfolio_value_scraper",
+  "version": "1.0.0",
+  "main": "altpocket_crypto_portfolio_value_scraper.js",
+  "author": "mhatvan",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhatvan/altpocket-crypto-portfolio-value-scraper.git"
+  },
+  "private": true,
+  "dependencies": {
+    "@slack/web-api": "^5.0.0",
+    "puppeteer": "^1.14.0"
+  }
+}
